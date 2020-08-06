@@ -6,9 +6,9 @@ var express = require('express');
 var mysql = require('mysql');
 var connection = mysql.createConnection({
   host: 'sql9.freemysqlhosting.net',
-  user: 'sql9298213',
-  password: 'BSB9SMk3NT',
-  database: 'sql9298213' 
+  user: 'sql9359008',
+  password: 'xsvJlGC97z',
+  database: 'sql9359008' 
 
 });
 
